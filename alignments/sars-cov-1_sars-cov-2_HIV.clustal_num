@@ -1,0 +1,127 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+sp|P04578|ENV_HV1H2      ------------------------------------------------------------	0
+ACU31051.1               MKILILAFLANLAKAQEGCGIISRKPQPKMAQVSSSRRGVYYNDDIFRSDILHLTQDYFL	60
+covid19                  ----MFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFL	56
+                                                                                     
+
+sp|P04578|ENV_HV1H2      -----------------------------------MRVKEKYQHLWRWGWRWGTMLL---	22
+ACU31051.1               PFDSNLTQYFSLNVDS-DRYTYFDNPILDFGDGVYFAATEKS--NVIRGWIFGSSFDNTT	117
+covid19                  PFFSNVTWFHAIHVSGTNGTKRFDNPVLPFNDGVYFASTEKS--NIIRGWIFGTTLDSKT	114
+                                                            :  .**       ** :*: :    
+
+sp|P04578|ENV_HV1H2      -GMLMICSATE------------KLWVTVYYGV--PVWKEA-------------------	48
+ACU31051.1               QSAVIVNNSTHIIIRVCNFNLCKEPMYTVSQGTQQNAW------VYQSAFNCTYDRVEKS	171
+covid19                  QSLLIVNNATNVVIKVCEFQFCNDPFLGVYYHKNNKSWMESEFRVYSSANNCTFEYVSQP	174
+                          . ::: .:*.            .    *        *                      
+
+sp|P04578|ENV_HV1H2      ------------------------------------------------------------	48
+ACU31051.1               FQLDTTPKTGNFKDLREYVFKNRDGFLSVYQTYTAVNLPRGLPAGFSVLKPILKLPFGIN	231
+covid19                  FLMDLEGKQGNFKNLREFVFKNIDGYFKIYSKHTPINLVRDLPQGFSALEPLVDLPIGIN	234
+                                                                                     
+
+sp|P04578|ENV_HV1H2      ---------------------------------------------------TTTLFCASD	57
+ACU31051.1               ITSYRVVMAMFS------QTTSNFLPESAAYYVGNLKYSTFMLKFNENGTITDAVDCSQN	285
+covid19                  ITRFQTLLALHRSYLTPGDSSSGWTAGAAAYYVGYLQPRTFLLKYNENGTITDAVDCALD	294
+                                                                            * :: *: :
+
+sp|P04578|ENV_HV1H2      A---------------KAYDTEVHNVWATHACVPTDPN-----PQ-EVVLVNVTENFNMW	96
+ACU31051.1               PLAELKCTIKNFNVDKGIYQTSNFRVSPTQEVV-RFPNITNRCPFDKVFNATRFPNVYAW	344
+covid19                  PLSETKCTLKSFTVEKGIYQTSNFRVQPTESIV-RFPNITNLCPFGEVFNATRFASVYAW	353
+                                           *:*. ..*  *.  *   **     *  :*. ..   ..  *
+
+sp|P04578|ENV_HV1H2      KNDMVEQMHEDIISLWDQS---LKPCVK-----LTPLCVSLKCTDL---KNDTNTNSSSG	145
+ACU31051.1               ERTKISDCVADYTVLYNSTSFSTFKCYGVSPSKLIDLCFTSVYADTFLIRSSEVRQV---	401
+covid19                  NRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQI---	410
+                         :.  :.:   *   *::.:      *       *  **.:   :*    :..   :    
+
+sp|P04578|ENV_HV1H2      RMIMEKGEIKNCSFNISTS------------IRGKVQKEYAFFY----KLDIIPIDNDTT	189
+ACU31051.1               -APGETGVIADYNYKLPDDFTGCVIAWNTAKQDT-----GNYYYRSHRKTKLKPFERDLS	455
+covid19                  -APGQTGKIADYNYKLPDDFTGCVIAWNSNNLDSKVGGNYNYLYRLFRKSNLKPFERDIS	469
+                             :.* * : .:::  .                      : *    * .: *::.* :
+
+sp|P04578|ENV_HV1H2      SYKL----TSCNTSV-------------------ITQA--CPKVSF--EPIPIHYCAPAG	222
+ACU31051.1               SDD--------------DGVYTLSTYDFNPNVPVAYQATRVVVLSFELLNAPATVCGPKL	501
+covid19                  TEIYQAGSTPCNGVEGFNCYFPLQSYGFQPTNGVGYQPYRVVVLSFELLHAPATVCGPKK	529
+                         :                                   *      :**     *   *.*  
+
+sp|P04578|ENV_HV1H2      F---AILKCNNKTFNGTGP---CTNVST------------VQCTHGIRPVVSTQLLL--N	262
+ACU31051.1               STQLVKNQCVNFNFNGLKGTGVLTPSSKRFQSFQQFGRDTSDFTDSVRDPQTLEILDISP	561
+covid19                  STNLVKNKCVNFNFNGLTGTGVLTESNKKFLPFQQFGRDIADTTDAVRDPQTLEILDITP	589
+                             .  :* * .***       *  ..             : *..:*   : ::*    
+
+sp|P04578|ENV_HV1H2      GSLAEEEVVIRSVNFTDNAKTIIVQLNTSVEINCTRPNNNTRKRIRIQRGPGRAFVTIGK	322
+ACU31051.1               CSFGGVSVITPGTNASSEV-AV-----LYQDVNCTDVPTAIRAD---QLTPAWRVYSTGV	612
+covid19                  CSFGGVSVITPGTNTSNQV-AV-----LYQDVNCTEVPVAIHAD---QLTPTWRVYSTGS	640
+                          *:.  .*:  ..* :.:. ::        ::***      :     *  *   . : * 
+
+sp|P04578|ENV_HV1H2      IGNMRQAHCNISRAKWNNTLKQ---I-------------ASKLREQFGNNKTIIFKQSSG	366
+ACU31051.1               NVFQTQAGCLIGAEHVNASYECDIPIGAGICASYHTAS----LLRSTGQKSIVAYTMSLG	668
+covid19                  NVFQTRAGCLIGAEHVNNSYECDIPIGAGICASYQTQTNSPRRARSVASQSIIAYTMSLG	700
+                              :* * *.  : * : :    *                  .. ..:. : :. * *
+
+sp|P04578|ENV_HV1H2      GDPE-------------------------------IVTHSFNCGGEFFYCNSTQLFNSTW	395
+ACU31051.1               AENSIAYANNSIAIPTNFSISVTTEVMPVSMAKTSVDCTMYICGDSL-ECSNLLLQYGSF	727
+covid19                  AENSVAYSNNSIAIPTNFTISVTTEILPVSMTKTSVDCTMYICGDST-ECSNLLLQYGSF	759
+                         .: .                               :    : **..   *..  *  .::
+
+sp|P04578|ENV_HV1H2      F-NSTWSTEGSNNTEGSDTITLPCRIKQIINMWQKVGKAMYAPPISGQI-----------	443
+ACU31051.1               CTQLNRALTGIAIEQDKNTQ----------EVFAQVKQMYKTPAIKDFGGFNFSQILPDP	777
+covid19                  CTQLNRALTGIAVEQDKNTQ----------EVFAQVKQIYKTPPIKDFGGFNFSQILPDP	809
+                           : . :  *    :..:*           ::: :* :   :* *..             
+
+sp|P04578|ENV_HV1H2      ---RCSSNITGLLLTRDGGNSNNESEIFRPGGGDMRDNWRSELYKYKVVKIEPLGVAPTK	500
+ACU31051.1               SKPTKRSFIEDLLFNKVTLA---DAGFMKQYGECLGDVSARDLI--CAQKFNGLTVLPPL	832
+covid19                  SKPSKRSFIEDLLFNKVTLA---DAGFIKQYGDCLGDIAARDLI--CAQKFNGLTVLPPL	864
+                               * * .**:.:       :: :::  *  : *    :*    . *:: * * *  
+
+sp|P04578|ENV_HV1H2      AKRRVVQREKRAVGIGALFLGFLGAAGSTMGAASMTLTVQARQLLSGIVQQQN-------	553
+ACU31051.1               LTDEMIAAYTAALVSGTATAGWTFGAGAAL---QIPFAMQMAYRFNGIGVTQNVLYENQK	889
+covid19                  LTDEMIAQYTSALLAGTITSGWTFGAGAAL---QIPFAMQMAYRFNGIGVTQNVLYENQK	921
+                          . .::   . *:  *:   *:  .**:::   .: :::*    :.**   **       
+
+sp|P04578|ENV_HV1H2      ---------------------------------------------------------NLL	556
+ACU31051.1               LIANQFNSAIGKIQESLSSTASALGKLQDVVNQNAQALNTLVKQLSSNFGAISSVLNDIL	949
+covid19                  LIANQFNSAIGKIQDSLSSTASALGKLQDVVNQNAQALNTLVKQLSSNFGAISSVLNDIL	981
+                                                                                  ::*
+
+sp|P04578|ENV_HV1H2      RAIEAQQHLLQLTVWGIKQLQARILAVERYLKDQQLL-----------------------	593
+ACU31051.1               SRLDKVEAEVQID----RLITGRLQSLQTYVTQQLIRAAEIRASANLAATKMSECVLGQS	1005
+covid19                  SRLDKVEAEVQID----RLITGRLQSLQTYVTQQLIRAAEIRASANLAATKMSECVLGQS	1037
+                           ::  :  :*:     : : .*: ::: *:.:* :                        
+
+sp|P04578|ENV_HV1H2      ---GIWGCS-------------------------------GKLICTT-------------	606
+ACU31051.1               KRVDFCGKGYHLMSFPQSAPHGVVFLHVTYVPSQERNFTTAPAICHEGKAYFPREGVFVS	1065
+covid19                  KRVDFCGKGYHLMSFPQSAPHGVVFLHVTYVPAQEKNFTTAPAICHDGKAHFPREGVFVS	1097
+                            .: * .                               .  **               
+
+sp|P04578|ENV_HV1H2      -AVPWNASWSNK------------------SLEQIWNHTTWMEWDREINNYTSLI-----	642
+ACU31051.1               NGTSWFITQRNFYSPQLITTDNTFVSGNCDVVIGIINNTVYDPLQPELDSFKEELDKYFK	1125
+covid19                  NGTHWFVTQRNFYEPQIITTDNTFVSGNCDVVIGIVNNTVYDPLQPELDSFKEELDKYFK	1157
+                          .. *  :  *                    :  * *:*.:   : *::.:.. :     
+
+sp|P04578|ENV_HV1H2      ----------------HSLI------EESQNQQEKNEQELLELDKWASLWNWFNITNWLW	680
+ACU31051.1               NHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQ---ELGKYEQYIKWPW	1182
+covid19                  NHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQ---ELGKYEQYIKWPW	1214
+                                          *::      :. ::  :: ::.*::*:   .* :: :  :* *
+
+sp|P04578|ENV_HV1H2      YIKLFIMIVGGLVGLRIVFAVLSIVNRVRQGYSPLSFQTHLPTPRGPDRPEGIEEEGGER	740
+ACU31051.1               YVWLG--FIAGLIAIVMVTILLCCMTSC--------------------------------	1208
+covid19                  YIWLG--FIAGLIAIVMVTIMLCCMTSC--------------------------------	1240
+                         *: *   ::.**:.: :*  :*. :.                                  
+
+sp|P04578|ENV_HV1H2      DRDRSIRLVNGSLALIWDDLRSLCLFSYHRLRDLLLIVTRIVELLGRRGWEALKYWWNLL	800
+ACU31051.1               ------------------------------------------------------------	1208
+covid19                  ------------------------------------------------------------	1240
+                                                                                     
+
+sp|P04578|ENV_HV1H2      QYWSQELKNSAVSLLNATAIAVAEGTDRVIEVVQGACRAIR------HIPRRIRQGLERI	854
+ACU31051.1               -----------------------------CSCLKGACSCGSCCKFDEDDSEPVLKGVKLH	1239
+covid19                  -----------------------------CSCLKGCCSCGSCCKFDEDDSEPVLKGVKLH	1271
+                                                       . ::*.* .        .  . : :*::  
+
+sp|P04578|ENV_HV1H2      LL	856
+ACU31051.1               YT	1241
+covid19                  YT	1273
+                           
