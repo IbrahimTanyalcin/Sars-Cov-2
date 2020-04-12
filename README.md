@@ -1,5 +1,11 @@
 # Sars-Cov-2
-MutaFrame Covid19 and ACE 2 Analysis
+[![DOI](https://zenodo.org/badge/255166880.svg)](https://zenodo.org/badge/latestdoi/255166880)
+
+MutaFrame Sars-Cov-2 and ACE 2 Analysis
+
+## WEBSITE
+
+Visit our work at [MutaFrame/covid19](https://deogen2.mutaframe.com/tools/covid19).
 
 ## METHODS
 
